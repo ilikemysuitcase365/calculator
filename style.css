@@ -5,7 +5,7 @@ body{
 #container{
     width: 1000px;
     height: 550px;
-    background-image: linear-gradient(rgb(236, 232, 240), rgb(243, 239, 239)), url(hello.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0,0.3), rgba(0, 0, 0,0.3)), url(hello.jpg);
     margin: 20px auto;
     background-position: center;
     background-size: cover;
